@@ -87,7 +87,7 @@ cd Shop Space Management
 ```bash
 cd backend
 npm install
-npm start
+node server.js
 ```
 The backend will run on [http://localhost:5000](http://localhost:5000).
 
@@ -95,7 +95,7 @@ The backend will run on [http://localhost:5000](http://localhost:5000).
 ```bash
 cd ../frontend
 npm install
-npm start
+npm run dev
 ```
 The frontend will run on [http://localhost:3000](http://localhost:3000).
 
